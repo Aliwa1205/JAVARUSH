@@ -10,7 +10,7 @@ import java.io.*;
 
 public class Solution
 {
-    public static void main(String[] args)   throws Exception
+    public static void main(String[] args) throws Exception
     {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
 
@@ -19,4 +19,5 @@ public class Solution
 
         System.out.println("Я буду зарабатывать $"+zp+" в час");
     }
+
 }
