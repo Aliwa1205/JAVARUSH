@@ -26,7 +26,6 @@ public class Solution
             System.out.println(b);
         else
             System.out.println(a);
-
     }
 
     public static int abs(int a)
