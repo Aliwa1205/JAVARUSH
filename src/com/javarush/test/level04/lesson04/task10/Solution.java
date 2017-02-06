@@ -28,7 +28,7 @@ public class Solution
 
 //        System.out.println(a + " " + b + " " + c);
 
-    if (a==b && a==c && b==c)
+    if (a==b && a==c && b==c)//(a==b&&b==c)
     {System.out.println(a + " " + b + " " + c);}
         else if (a==b)
     {System.out.println(a + " " + b);}
